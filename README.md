@@ -14,7 +14,7 @@ A **React-based** random password generator that allows users to generate secure
 - **Tailwind CSS** (for styling)  
 
 ## Preview  
-![Password Generator Preview](https://raw.githubusercontent.com/Rutuja1923/Random-Password-Generator/main/public/screenshot.png) 
+![Password Generator Preview](https://raw.githubusercontent.com/Rutuja1923/Random-Password-Generator/main/public/screenshot.png){width=300 height=500} 
 
 ## Installation & Setup  
 
